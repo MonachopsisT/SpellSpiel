@@ -1,0 +1,11 @@
+E:\PERSONAL\Random\Documents\UNI\Introduction-to-Game-Programming\MOD005244-Assignment-1801115\SpellSpiel\SpellSpiel\bin\Debug\netcoreapp2.1\SpellSpiel.deps.json
+E:\PERSONAL\Random\Documents\UNI\Introduction-to-Game-Programming\MOD005244-Assignment-1801115\SpellSpiel\SpellSpiel\bin\Debug\netcoreapp2.1\SpellSpiel.runtimeconfig.json
+E:\PERSONAL\Random\Documents\UNI\Introduction-to-Game-Programming\MOD005244-Assignment-1801115\SpellSpiel\SpellSpiel\bin\Debug\netcoreapp2.1\SpellSpiel.runtimeconfig.dev.json
+E:\PERSONAL\Random\Documents\UNI\Introduction-to-Game-Programming\MOD005244-Assignment-1801115\SpellSpiel\SpellSpiel\bin\Debug\netcoreapp2.1\SpellSpiel.dll
+E:\PERSONAL\Random\Documents\UNI\Introduction-to-Game-Programming\MOD005244-Assignment-1801115\SpellSpiel\SpellSpiel\bin\Debug\netcoreapp2.1\SpellSpiel.pdb
+E:\PERSONAL\Random\Documents\UNI\Introduction-to-Game-Programming\MOD005244-Assignment-1801115\SpellSpiel\SpellSpiel\obj\Debug\netcoreapp2.1\SpellSpiel.csprojAssemblyReference.cache
+E:\PERSONAL\Random\Documents\UNI\Introduction-to-Game-Programming\MOD005244-Assignment-1801115\SpellSpiel\SpellSpiel\obj\Debug\netcoreapp2.1\SpellSpiel.csproj.CoreCompileInputs.cache
+E:\PERSONAL\Random\Documents\UNI\Introduction-to-Game-Programming\MOD005244-Assignment-1801115\SpellSpiel\SpellSpiel\obj\Debug\netcoreapp2.1\SpellSpiel.AssemblyInfoInputs.cache
+E:\PERSONAL\Random\Documents\UNI\Introduction-to-Game-Programming\MOD005244-Assignment-1801115\SpellSpiel\SpellSpiel\obj\Debug\netcoreapp2.1\SpellSpiel.AssemblyInfo.cs
+E:\PERSONAL\Random\Documents\UNI\Introduction-to-Game-Programming\MOD005244-Assignment-1801115\SpellSpiel\SpellSpiel\obj\Debug\netcoreapp2.1\SpellSpiel.dll
+E:\PERSONAL\Random\Documents\UNI\Introduction-to-Game-Programming\MOD005244-Assignment-1801115\SpellSpiel\SpellSpiel\obj\Debug\netcoreapp2.1\SpellSpiel.pdb
